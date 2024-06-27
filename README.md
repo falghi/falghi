@@ -2,7 +2,7 @@
 
 ## ⭐ About Me
 
-🎓 I am Firdaus Al Ghifari, a software engineer with experiences in front-end (React, Flutter), back-end (Golang, Python, Ruby, Java), and machine learning (TensorFlow, PyTorch). Currently, I work as a Software Engineer at Money Forward 🇯🇵. I'm deeply passionate about solving business problems using technology to help people achieve their goals effectively.
+🎓 I am Firdaus Al Ghifari, a software engineer with experiences in back-end (Golang, Ruby on Rails, Python, Java), front-end (React, Flutter), and machine learning (TensorFlow, PyTorch). Currently, I work as a Software Engineer at Money Forward 🇯🇵. I'm deeply passionate about solving business problems using technology to help people achieve their goals effectively.
 
 👨‍💻 Previously, I worked at Pintarnya 🇮🇩 as a Software Engineer, where I developed its job-seeking platform using Golang, Python, GCP, and PostgreSQL. The app achieved 1 million downloads in a little more than a year.
 
